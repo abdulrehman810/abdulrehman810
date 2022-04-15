@@ -1,0 +1,8 @@
+h1{
+    background-color: aqua;
+    border: 1px solid red;
+}
+p{
+    color: blueviolet;
+    border: 3px double gray;
+}
